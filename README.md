@@ -1,3 +1,2 @@
 # Final-Project
-Final project repo with quarto extension
-push test 1/13
+This repository contains important information for the final project.
