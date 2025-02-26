@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='468.00pt' height='468.00pt' viewBox='0 0 468.00 468.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0NjguMDB8MC4wMHw0NjguMDA='>
+    <rect x='0.00' y='0.00' width='468.00' height='468.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw0NjguMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMzguMTZ8Mzc4LjIzfDIzLjM0fDQzNi4yNw=='>
+    <rect x='38.16' y='23.34' width='340.07' height='412.93' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzguMTZ8Mzc4LjIzfDIzLjM0fDQzNi4yNw==)'>
+<polyline points='38.16,364.77 378.23,364.77 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,259.33 378.23,259.33 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,153.88 378.23,153.88 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,48.43 378.23,48.43 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,417.50 378.23,417.50 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,312.05 378.23,312.05 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,206.60 378.23,206.60 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='38.16,101.16 378.23,101.16 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='130.91,436.27 130.91,23.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='285.48,436.27 285.48,23.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='285.48' y='122.24' width='69.56' height='295.25' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00BFC4;' />
+<rect x='130.91' y='206.60' width='69.56' height='210.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00BFC4;' />
+<rect x='215.92' y='42.11' width='69.56' height='375.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='61.35' y='286.74' width='69.56' height='130.75' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8766D;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw0NjguMDA=)'>
+<text x='33.23' y='420.65' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='33.23' y='315.20' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='33.23' y='209.76' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.69px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='33.23' y='104.31' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.69px' lengthAdjust='spacingAndGlyphs'>150</text>
+<text x='130.91' y='447.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='13.68px' lengthAdjust='spacingAndGlyphs'>Dry</text>
+<text x='285.48' y='447.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='15.64px' lengthAdjust='spacingAndGlyphs'>Wet</text>
+<text x='208.20' y='460.09' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='62.36px' lengthAdjust='spacingAndGlyphs'>Terrain Type</text>
+<text transform='translate(13.37,229.80) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='29.35px' lengthAdjust='spacingAndGlyphs'>Count</text>
+<text x='394.67' y='213.73' style='font-size: 11.00px; font-family: "Arial";' textLength='50.16px' lengthAdjust='spacingAndGlyphs'>Bug_Type</text>
+<rect x='395.38' y='221.13' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='395.38' y='238.41' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00BFC4;' />
+<text x='417.43' y='232.22' style='font-size: 8.80px; font-family: "Arial";' textLength='34.22px' lengthAdjust='spacingAndGlyphs'>Pill Bugs</text>
+<text x='417.43' y='249.50' style='font-size: 8.80px; font-family: "Arial";' textLength='39.61px' lengthAdjust='spacingAndGlyphs'>Sow Bugs</text>
+<text x='38.16' y='14.94' style='font-size: 13.20px; font-family: "Arial";' textLength='179.63px' lengthAdjust='spacingAndGlyphs'>Count of Bugs by Terrain Type</text>
+</g>
+</svg>
