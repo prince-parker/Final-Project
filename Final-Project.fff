@@ -4,7 +4,7 @@
 
 \caption{Figure 1: Terrain Preferences for Bugs (Wet v. Dry).}
 
-{\centering \includegraphics{Final-Project_files/figure-pdf/unnamed-chunk-2-1.pdf}
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{Final-Project_files/figure-pdf/unnamed-chunk-2-1.pdf}}
 
 }
 
@@ -17,7 +17,7 @@
 
 \caption{Figure 2: Terrain Preferences for Bugs.}
 
-{\centering \includegraphics{Final-Project_files/figure-pdf/unnamed-chunk-7-1.pdf}
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{Final-Project_files/figure-pdf/unnamed-chunk-7-1.pdf}}
 
 }
 
