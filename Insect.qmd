@@ -46,23 +46,29 @@ To investigate terrain preference among pill and sow bugs, four substrate combin
 
 ### Results
 
-```{r fig.cap="Figure 1: Terrain Preferences for Bugs (Wet v. Dry)."}
+```{r}
 
 # Load necessary library
 library(ggplot2)
 library(tidyr)
+```
 
+```{r}
 # Create the data as a wide format data frame
 wet_dry_df <- data.frame(
   Bug_Type = c('Sow Bugs', 'Pill Bugs'),
   Wet = c(140, 178),
   Dry = c(100, 62)
 )
+```
 
+```{r}
 # Reshape the data from wide to long format
 wd_long <- pivot_longer(wet_dry_df, cols = c(Wet, Dry), 
                           names_to = "Terrain_Type", values_to = "Count")
+```
 
+```{r fig.cap="Figure 1: Terrain Preferences for Bugs (Wet v. Dry)."}
 # Create the bar plot
 ggplot(wd_long, aes(x = Terrain_Type, y = Count, fill = Bug_Type)) +
   geom_bar(stat = "identity", position = "dodge") +  # Use "dodge" for side-by-side bars
@@ -107,7 +113,7 @@ smooth_rough_chi <- chisq.test(smooth_rough_table)
 print(smooth_rough_chi)
 ```
 
-```{r fig.cap="Figure 2: Terrain Preferences for Bugs."}
+```{r}
 
 # Load necessary library
 library(ggplot2)
@@ -123,7 +129,9 @@ rough_smooth_df <- data.frame(
 # Reshape the data from wide to long format
 sr_long <- pivot_longer(rough_smooth_df, cols = c(Smooth, Rough), 
                           names_to = "Terrain_Type", values_to = "Count")
+```
 
+```{r fig.cap="Figure 2: Terrain Preferences for Bugs."}
 # Create the bar plot
 ggplot(sr_long, aes(x = Terrain_Type, y = Count, fill = Bug_Type)) +
   geom_bar(stat = "identity", position = "dodge") +  # Use "dodge" for side-by-side bars
@@ -142,11 +150,11 @@ With temperatures gradually rising with each year, it has become prevalent that 
 The present study aimed to assess how pill and sow bugs prefer to live while exposing conditions that are nonpreferable and akin to conditions growing due to climate change. The researcher’s hypothesis was mostly correct with wet, cold, and dark substrates being preferred over dry, warm, and light substrates. However, the null hypothesis was accepted and the researcher’s hypothesis was found to be incorrect for the smooth versus rough substrate preference analysis as both pill and sow bugs preferred the rough substrate.
 The main limitation of this study was the time for which the isopods were observed. As this was a one-day study, further statistical analysis and results could be drawn with more trials over several days. Future experiments could further magnify the behavioral consequences of isopods through temperature analysis. Isopod preference in different biomes such as the desert, tundra, and swamplands could expand the findings from this study.
 
-References
+
+#References
 Cazzolla Gatti, R., Messina, G., Tiralongo, F., Ursino, L. A., & Lombardo, B. M. (2020). Learning from the environment: How predation changes the behavior of terrestrial Isopoda (Crustacea Oniscidea). Ethology Ecology & Evolution, 32(1), 29-45.
 Derhé, M., Moss, A., Edwards, D., Carmenta, R., & Hassall, M. (2010). Predicting the effect of climate change on aggregation behaviour in four species of terrestrial isopods. Behaviour, 147(2), 151-164.
 Hegarty, K. G., & Kight, S. L. (2014). Do predator cues influence turn alternation behavior in terrestrial isopods Porcellio laevis Latreille and Armadillidium vulgare Latreille?. Behavioural processes, 106, 168-171.
 Leclercq-Dransart, J., Pernin, C., Demuynck, S., Grumiaux, F., Lemiere, S., & Leprêtre, A. (2019). Isopod physiological and behavioral responses to drier conditions: An experiment with four species in the context of global warming. European Journal of Soil Biology, 90, 22-30.
 Influence of oxygen levels on the predatory behaviour of the isopod Saduria Entomon. Taylor & Francis. (n.d.).  https://www.tandfonline.com/doi/abs/10.1080/10236249909379051
 Joanne M. Tuck, & Hassall, M. (2004). Foraging Behaviour of Armadillidium Vulgare (Isopoda: Oniscidea) in Heterogeneous Environments. Behaviour, 141(2), 233–244. http://www.jstor.org/stable/4536123
-
