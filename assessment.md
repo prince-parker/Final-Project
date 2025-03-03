@@ -17,7 +17,7 @@ CNetID: princep
 
 Section: 1
 
-Mini-project title: Final Project Setup
+Mini-project title: Transpose to Quarto
 
 Submission date: 1/20/2025
 
