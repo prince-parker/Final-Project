@@ -21,7 +21,7 @@ Mini-project title: Transpose to Quarto
 
 Submission date: 1/20/2025
 
-Project GitHub subdirectory URL: https://github.com/prince-parker/Final-Project.git
+Project GitHub subdirectory URL: https://github.com/prince-parker/Insect_Files
 
 URL or instructions to access additional materials, if needed:
 
