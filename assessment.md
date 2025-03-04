@@ -52,8 +52,8 @@ Below each learning objective is a list of general expectations for meeting that
     2.  Uses relative paths correctly
     3.  Does not have duplicate/redundant elements
 
-        -   [ x] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [ ] Objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments: 
 
@@ -62,8 +62,8 @@ Below each learning objective is a list of general expectations for meeting that
     1.  Includes description of repo purpose, data use, research questions, etc.
     2.  Outlines the repo structure with file tree or similar
 
-        -   [x ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [ ] Objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -72,8 +72,8 @@ Below each learning objective is a list of general expectations for meeting that
     1.  All scripts run and all notebooks render if the repo is cloned to another location
     2.  .gitingore comprehensively excludes unnecessary, private, and very large files and is be commeted appropriately
 
-        -   [ x] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [ ] Objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -82,7 +82,7 @@ Below each learning objective is a list of general expectations for meeting that
     1.  Used frequent, informative commit messages
     2.  Relies on document revisions rather than manually created new versions
 
-        -   [x ] Objective attempt
+        -   [x] Objective attempt
         -   [ ] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
@@ -95,7 +95,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses more than one function to install/load/require packages
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -180,7 +180,7 @@ Below each learning objective is a list of general expectations for meeting that
     1. Creates at least 2 figures with different `geom_*` layers (e.g., a scatter plot and a bar plot)
     2. At least one plot is multi-variable
 
-        -   [ ] Objective attempt
+        -   [x] Objective attempt
         -   [ ] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
@@ -189,7 +189,7 @@ Below each learning objective is a list of general expectations for meeting that
 
     1. Uses at least 2 unique data-mapped `aes()` arguments (e.g., color, shape, size) to group data in a plot in one or multiple plots
 
-        -   [ ] Objective attempt
+        -   [x] Objective attempt
         -   [ ] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
@@ -211,7 +211,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. Variables display in plain English (e.g., "Age (years)" not "child_age_yrs"
     4. Uses at least 1 static aesthetic (e.g., color, shape, size) that improves visual clarity without mapping to data
 
-        -   [ ] Objective attempt
+        -   [x] Objective attempt
         -   [ ] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
@@ -236,7 +236,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. Presents results in narrative text, table, or plot
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -261,7 +261,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. May use `cite_r()` to cite R and R packages
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -274,7 +274,7 @@ Below each learning objective is a list of general expectations for meeting that
     5. May include references not cited in-text
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -288,7 +288,7 @@ Below each learning objective is a list of general expectations for meeting that
     4.  Chunks are distributed throughout the manuscript, sensibly placed near the text they support
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments: 
         
@@ -326,7 +326,7 @@ Below each learning objective is a list of general expectations for meeting that
     5. Chunks are organized sensibly and appear near the text they support
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -337,7 +337,7 @@ Below each learning objective is a list of general expectations for meeting that
     1. Includes all necessary metadata, output options, and formatting options necessary to render an APA styled document (or other specified style if appropriate for the project)
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -360,7 +360,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. Ideally, uses inline R references for all data-dependent text
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -369,7 +369,7 @@ Below each learning objective is a list of general expectations for meeting that
     1. Uses inline R functions to render at least 3 unique data-dependent text outputs (e.g., performs rounding, calculates means, subtracts one list length from another, etc. -- inline rather than in a code chunk)
 
     -   [ ] Objective attempt
-    -   [ ] Unique objective attempt
+    -   [x] Unique objective attempt
     -   [ ] Objective met
     -   Grader comments:
 
